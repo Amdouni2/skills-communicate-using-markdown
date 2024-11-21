@@ -7,3 +7,7 @@
 name = "Amdouni"
 print("Yassine" + name)
 ```
+
+- [x] Freshmen
+- [ ] Junior
+- [ ] Senior
